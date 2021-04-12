@@ -1,6 +1,9 @@
-# profile_page
+# Static Profile Page using Flutter
 
-A new Flutter project.
+This is my first flutter project built by using fundamental widegts in flutter.
+
+# Output
+<img src="https://user-images.githubusercontent.com/55273506/114444036-0a295480-9bec-11eb-80ba-16f6c1faf23c.jpeg" width="250">
 
 ## Getting Started
 
